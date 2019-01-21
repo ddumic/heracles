@@ -5,11 +5,11 @@
 
 # requirements
 ## python 2.7
-pip install pyyaml
-pip install psutil
-pip install wmi
-pip install pywin32
-pip install elasticsearch
+pip install pyyaml<br/>
+pip install psutil<br/>
+pip install wmi<br/>
+pip install pywin32<br/>
+pip install elasticsearch<br/>
 
 # TODO
 ## implement max log size
