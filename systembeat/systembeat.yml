@@ -1,0 +1,35 @@
+################### Systembeat Configuration Example #########################
+
+# This file is an example configuration file highlighting only some common options.
+#
+# You can find the full configuration reference here:
+
+
+############################# Systembeat ######################################
+systembeat.monitors:
+  #configure metrics to track, use * for tracking all metrics
+  metrics: ["*"]
+
+  # Configure task schedule every x seconds
+  schedule: '10'
+
+#================================ Paths =====================================
+paths:
+  # Path to log file
+  log: log
+  # Maximum file size in KB
+  maxsize: 10
+
+#================================ Outputs =====================================
+
+# Configure what output to use when sending the data collected by the beat.
+
+#-------------------------- Elasticsearch output ------------------------------
+output.elasticsearch:
+  # Array of hosts to connect to.
+  hosts: ["localhost:9200"]
+
+#----------------------------- Logstash output --------------------------------
+#output.logstash:
+  # The Logstash hosts
+  #hosts: ["localhost:5044"]

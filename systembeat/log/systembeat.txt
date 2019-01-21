@@ -1,0 +1,12 @@
+sending data {"data": [{"hostname": "KINGDEVLAP193", "cpu": 29.2}, {"hostname": "KINGDEVLAP193", "memory": 48.2}, {"hostname": "KINGDEVLAP193", "disksize": 199.46}, {"diskused": 175.17, "hostname": "KINGDEVLAP193"}, {"diskfree": 24.29, "hostname": "KINGDEVLAP193"}, {"hostname": "KINGDEVLAP193", "inboundtraffic": 0.0}, {"outboundtraffic": 0.0, "hostname": "KINGDEVLAP193"}]} to localhost:9200
+data sent to localhost:9200
+waiting for interval
+sending data {"data": [{"hostname": "KINGDEVLAP193", "cpu": 28.6}, {"hostname": "KINGDEVLAP193", "memory": 48.3}, {"hostname": "KINGDEVLAP193", "disksize": 199.46}, {"diskused": 175.17, "hostname": "KINGDEVLAP193"}, {"diskfree": 24.29, "hostname": "KINGDEVLAP193"}, {"hostname": "KINGDEVLAP193", "inboundtraffic": 0.0}, {"outboundtraffic": 0.0, "hostname": "KINGDEVLAP193"}]} to localhost:9200
+data sent to localhost:9200
+waiting for interval
+sending data {"data": [{"hostname": "KINGDEVLAP193", "cpu": 29.6}, {"hostname": "KINGDEVLAP193", "memory": 48.1}, {"hostname": "KINGDEVLAP193", "disksize": 199.46}, {"diskused": 175.17, "hostname": "KINGDEVLAP193"}, {"diskfree": 24.29, "hostname": "KINGDEVLAP193"}, {"hostname": "KINGDEVLAP193", "inboundtraffic": 0.0}, {"outboundtraffic": 0.0, "hostname": "KINGDEVLAP193"}]} to localhost:9200
+data sent to localhost:9200
+waiting for interval
+sending data {"data": [{"hostname": "KINGDEVLAP193", "cpu": 35.4}, {"hostname": "KINGDEVLAP193", "memory": 48.2}, {"hostname": "KINGDEVLAP193", "disksize": 199.46}, {"diskused": 175.17, "hostname": "KINGDEVLAP193"}, {"diskfree": 24.29, "hostname": "KINGDEVLAP193"}, {"hostname": "KINGDEVLAP193", "inboundtraffic": 0.0}, {"outboundtraffic": 0.0, "hostname": "KINGDEVLAP193"}]} to localhost:9200
+data sent to localhost:9200
+waiting for interval

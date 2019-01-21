@@ -1,0 +1,10 @@
+sending data [{"status": "OK", "endpoint": "www.google.com", "hostname": "KINGDEVLAP193", "code": 200}, {"status": "OK", "endpoint": "www.youtube.com", "hostname": "KINGDEVLAP193", "code": 200}] to localhost:9200
+sending data [{"status": "OK", "endpoint": "www.google.com", "hostname": "KINGDEVLAP193", "code": 200}, {"status": "OK", "endpoint": "www.youtube.com", "hostname": "KINGDEVLAP193", "code": 200}] to localhost:9200
+sending data {"data": [{"status": "OK", "endpoint": "www.google.com", "hostname": "KINGDEVLAP193", "code": 200}, {"status": "OK", "endpoint": "www.youtube.com", "hostname": "KINGDEVLAP193", "code": 200}]} to localhost:9200
+sending data {"data": [{"status": "OK", "endpoint": "www.google.com", "hostname": "KINGDEVLAP193", "code": 200}, {"status": "OK", "endpoint": "www.youtube.com", "hostname": "KINGDEVLAP193", "code": 200}]} to localhost:9200
+sending data {"data": [{"status": "OK", "endpoint": "www.google.com", "hostname": "KINGDEVLAP193", "code": 200}, {"status": "OK", "endpoint": "www.youtube.com", "hostname": "KINGDEVLAP193", "code": 200}]} to localhost:9200
+data sent to localhost:9200
+waiting for interval
+sending data {"data": [{"status": "OK", "endpoint": "www.google.com", "hostname": "KINGDEVLAP193", "code": 200}, {"status": "OK", "endpoint": "www.youtube.com", "hostname": "KINGDEVLAP193", "code": 200}]} to localhost:9200
+data sent to localhost:9200
+waiting for interval
